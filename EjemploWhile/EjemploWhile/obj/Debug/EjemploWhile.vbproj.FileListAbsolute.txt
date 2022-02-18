@@ -1,0 +1,13 @@
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\bin\Debug\EjemploWhile.exe.config
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\bin\Debug\EjemploWhile.exe
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\bin\Debug\EjemploWhile.pdb
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\bin\Debug\EjemploWhile.xml
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.vbproj.AssemblyReference.cache
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.vbproj.SuggestedBindingRedirects.cache
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.Form1.resources
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.Resources.resources
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.vbproj.GenerateResource.cache
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.vbproj.CoreCompileInputs.cache
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.exe
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.xml
+D:\Proyectos Visual Studio\Windows Form App NET\EjemploWhile\EjemploWhile\obj\Debug\EjemploWhile.pdb
