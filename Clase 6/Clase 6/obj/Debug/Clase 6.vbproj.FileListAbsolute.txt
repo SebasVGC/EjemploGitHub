@@ -1,0 +1,13 @@
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\bin\Debug\Clase 6.exe.config
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\bin\Debug\Clase 6.exe
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\bin\Debug\Clase 6.pdb
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\bin\Debug\Clase 6.xml
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\obj\Debug\Clase 6.vbproj.SuggestedBindingRedirects.cache
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\obj\Debug\Clase_6.Resources.resources
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\obj\Debug\Clase 6.vbproj.GenerateResource.cache
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\obj\Debug\Clase 6.vbproj.CoreCompileInputs.cache
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\obj\Debug\Clase 6.exe
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\obj\Debug\Clase 6.xml
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\obj\Debug\Clase 6.pdb
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\obj\Debug\Clase 6.vbproj.AssemblyReference.cache
+D:\Github\PROGRA092\Clase 06\Clase 6\Clase 6\obj\Debug\Clase_6.Form1.resources
